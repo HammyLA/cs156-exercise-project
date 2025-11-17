@@ -7,7 +7,7 @@ def butter_bandpass(lowcut, highcut, fs, order=3):
     b, a = butter(order, [lowcut/nyq, highcut/nyq], btype='band')
     return b, a
 
-def bandpass_filter(data, lowcut=0.3, highcut=8.0, fs=25.0, order=3):
+def bandpass_filter(data, lowcut=0.3, highcut=3, fs=25.0, order=3):
     b, a = butter_bandpass(lowcut, highcut, fs, order=order)
     return filtfilt(b, a, data, axis=0)
 
