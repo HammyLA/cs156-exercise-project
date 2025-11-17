@@ -1,0 +1,144 @@
+Rep 41-75
+SEG_MAG shape: (35,)
+TEMPLATE_MAG shape: (105,)
+DIST: 13.494, DIST_NORM: 0.129, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 106-107
+SEG_MAG shape: (2,)
+TEMPLATE_MAG shape: (105,)
+DIST: 25.778, DIST_NORM: 0.246, TYPE: start_end
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 115-134
+SEG_MAG shape: (20,)
+TEMPLATE_MAG shape: (105,)
+DIST: 15.324, DIST_NORM: 0.146, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 172-199
+SEG_MAG shape: (28,)
+TEMPLATE_MAG shape: (105,)
+DIST: 13.175, DIST_NORM: 0.125, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 210-211
+SEG_MAG shape: (2,)
+TEMPLATE_MAG shape: (105,)
+DIST: 25.508, DIST_NORM: 0.243, TYPE: start_end
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 241-261
+SEG_MAG shape: (21,)
+TEMPLATE_MAG shape: (105,)
+DIST: 15.432, DIST_NORM: 0.147, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 295-318
+SEG_MAG shape: (24,)
+TEMPLATE_MAG shape: (105,)
+DIST: 14.717, DIST_NORM: 0.140, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 321-326
+SEG_MAG shape: (6,)
+TEMPLATE_MAG shape: (105,)
+DIST: 24.242, DIST_NORM: 0.231, TYPE: start_end
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 330-330
+SEG_MAG shape: (1,)
+TEMPLATE_MAG shape: (105,)
+DIST: 25.380, DIST_NORM: 0.242, TYPE: start_end
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 350-351
+SEG_MAG shape: (2,)
+TEMPLATE_MAG shape: (105,)
+DIST: 25.700, DIST_NORM: 0.245, TYPE: start_end
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 363-385
+SEG_MAG shape: (23,)
+TEMPLATE_MAG shape: (105,)
+DIST: 13.588, DIST_NORM: 0.129, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 427-475
+SEG_MAG shape: (49,)
+TEMPLATE_MAG shape: (105,)
+DIST: 3.674, DIST_NORM: 0.035, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 484-534
+SEG_MAG shape: (51,)
+TEMPLATE_MAG shape: (105,)
+DIST: 2.986, DIST_NORM: 0.028, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 543-566
+SEG_MAG shape: (24,)
+TEMPLATE_MAG shape: (105,)
+DIST: 14.688, DIST_NORM: 0.140, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 570-571
+SEG_MAG shape: (2,)
+TEMPLATE_MAG shape: (105,)
+DIST: 25.164, DIST_NORM: 0.240, TYPE: start_end
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 580-602
+SEG_MAG shape: (23,)
+TEMPLATE_MAG shape: (105,)
+DIST: 12.031, DIST_NORM: 0.115, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 642-670
+SEG_MAG shape: (29,)
+TEMPLATE_MAG shape: (105,)
+DIST: 19.235, DIST_NORM: 0.183, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 681-681
+SEG_MAG shape: (1,)
+TEMPLATE_MAG shape: (105,)
+DIST: 25.723, DIST_NORM: 0.245, TYPE: start_end
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 702-721
+SEG_MAG shape: (20,)
+TEMPLATE_MAG shape: (105,)
+DIST: 15.466, DIST_NORM: 0.147, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 730-730
+SEG_MAG shape: (1,)
+TEMPLATE_MAG shape: (105,)
+DIST: 25.965, DIST_NORM: 0.247, TYPE: start_end
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 738-759
+SEG_MAG shape: (22,)
+TEMPLATE_MAG shape: (105,)
+DIST: 17.708, DIST_NORM: 0.169, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 802-818
+SEG_MAG shape: (17,)
+TEMPLATE_MAG shape: (105,)
+DIST: 15.382, DIST_NORM: 0.146, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 839-856
+SEG_MAG shape: (18,)
+TEMPLATE_MAG shape: (105,)
+DIST: 17.036, DIST_NORM: 0.162, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
+Rep 896-915
+SEG_MAG shape: (20,)
+TEMPLATE_MAG shape: (105,)
+DIST: 13.458, DIST_NORM: 0.128, TYPE: full_rep
+SUBJECT: s5, EXERCISE: e8
+---
