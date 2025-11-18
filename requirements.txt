@@ -8,3 +8,4 @@ scikit-learn
 PyWavelets
 fastdtw
 dtaidistance
+xgboost
