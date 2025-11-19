@@ -71,3 +71,11 @@ def load_and_merge_sensors(sensor_files, subject, exercise):
     merged_df['subject'] = subject
     merged_df['exercise'] = exercise
     return merged_df
+
+def collect_template_times(template_times, subject, exercise):
+    files = template_times[
+        (template_times['subject'] == subject) & 
+        (template_times['exercise'] == exercise)
+    ]['path'].tolist()
+    dfs = [pd.read_csv(f, sep=";") for f in files]
+    return dfs[0]
